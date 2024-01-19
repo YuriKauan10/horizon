@@ -78,7 +78,8 @@ p{
     line-height: 20px;
     max-width: 500px;
     font-family: poppinslight;
-    color: white
+    color: white;
+    font-weight: bold;
 }
 
 main article img{
